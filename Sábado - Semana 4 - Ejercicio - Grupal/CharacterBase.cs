@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sábado___Semana_4___Ejercicio___Grupal
 {
-    public abstract class CharacterBase : IAttackable, ICharacter
+    public abstract class CharacterBase : ICharacter
     {
         protected static readonly Random Random = new Random();
 
