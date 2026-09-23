@@ -11,18 +11,10 @@ namespace Sábado___Semana_4___Ejercicio___Grupal
         private int Damage { get; set; }
         public int ExperienceReward { get; set; }
 
-        public Enemy(string name, int life, int damage, int xpReward = 0)
-            : base(name, life)
+        public Enemy(string name, int life, int damage, int xpReward) : base(name, life)
         {
             Damage = damage;
             ExperienceReward = xpReward;
-        }
-
-        public override int Attack(ICharacter target)
-        {
-            int dmg = SafeRandom(2, Damage);
-            target.ReceiveDamage(dmg);
-            return dmg;
         }
 
         private void AttackHelper(ICharacter player, int min, int decrease)
