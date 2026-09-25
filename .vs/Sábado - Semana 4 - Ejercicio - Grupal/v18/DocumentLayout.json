@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\",
+  "WorkspaceRootPath": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|c:\\users\\alessandro\\funciona\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\items\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\items\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|d:\\tulus\\2026-2\\progra\\semana-4---ejercicio---grupal\\s\u00E1bado - semana 4 - ejercicio - grupal\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9F739-6F1D-4104-B6FF-C58E49FEDB0C}|S\u00E1bado - Semana 4 - Ejercicio - Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal.csproj|solutionrelative:s\u00E1bado - semana 4 - ejercicio - grupal\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +59,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
-              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
-              "ToolTip": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
-              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Option.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Option.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Option.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T01:22:12.746Z",
+              "WhenOpened": "2026-09-25T23:17:25.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\App.config",
-              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\App.config",
-              "ToolTip": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\App.config",
-              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\App.config",
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Inventory.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Inventory.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Inventory.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Inventory.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:16:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Weapon.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Weapon.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Weapon.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:16:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Potion.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Potion.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Potion.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Potion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:15:20.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Item.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Item.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:09:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\CharacterBase.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\CharacterBase.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\CharacterBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-09-21T15:43:59.185Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:02:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Enemy.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Enemy.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Enemy.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:01:59.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Escenario.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Escenario.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Escenario.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Escenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:01:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICharacter.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\ICharacter.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\ICharacter.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\ICharacter.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\ICharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:01:58.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Program.cs",
-              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Program.cs",
-              "ToolTip": "C:\\Users\\Alessandro\\funciona\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Program.cs",
-              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Inventory.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Inventory.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Inventory.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Inventory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:29:16.074Z",
+              "WhenOpened": "2026-09-25T23:01:57.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
+              "RelativeDocumentMoniker": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
+              "ToolTip": "D:\\Tulus\\2026-2\\Progra\\Semana-4---Ejercicio---Grupal\\S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
+              "RelativeToolTip": "S\u00E1bado - Semana 4 - Ejercicio - Grupal\\Player.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:01:57.081Z",
               "EditorCaption": ""
             }
           ]
