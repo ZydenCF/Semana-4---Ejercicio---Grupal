@@ -1,9 +1,8 @@
-﻿using Sabado_Semana_4_Ejercicio_Grupal;
-using System;
+﻿using System;
 
-namespace Sábado___Semana_4___Ejercicio___Grupal
+namespace Sabado_Semana_4_Ejercicio_Grupal
 {
-    internal class Escenario : IMostrable
+    internal class Escenarios : IMostrable
     {
         public int Id { get; set; }
         public string Titulo { get; set; }
@@ -12,10 +11,10 @@ namespace Sábado___Semana_4___Ejercicio___Grupal
         public TipoEvento Tipo { get; set; }
         public bool Visitado { get; set; }
 
-        public Escenario OpcionSiguiente1 { get; set; }
-        public Escenario OpcionSiguiente2 { get; set; }
+        public Escenarios OpcionSiguiente1 { get; set; }
+        public Escenarios OpcionSiguiente2 { get; set; }
 
-        public Escenario(int id, string titulo, string descripcion,
+        public Escenarios(int id, string titulo, string descripcion,
                          Enemigo enemigo = null,
                          TipoEvento tipo = TipoEvento.Normal)
         {

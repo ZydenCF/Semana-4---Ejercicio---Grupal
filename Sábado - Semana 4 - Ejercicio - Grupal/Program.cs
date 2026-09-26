@@ -1,15 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sábado___Semana_4___Ejercicio___Grupal
+namespace Sabado_Semana_4_Ejercicio_Grupal
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            try
+            {
+                new MotorJuego().Iniciar();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error critico: " + ex.Message);
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
